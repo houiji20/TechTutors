@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+/* src/App.css or your main CSS file */
+footer {
+  background-color: #f8f9fa; /* Light background */
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+

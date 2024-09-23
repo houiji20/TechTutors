@@ -1,0 +1,16 @@
+footer {
+    background-color: #343a40; /* Dark background */
+  }
+  
+  footer h5 {
+    color: #f8f9fa; /* Light text for headings */
+  }
+  
+  footer a {
+    color: #f8f9fa; /* Light text for links */
+  }
+  
+  footer a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  
